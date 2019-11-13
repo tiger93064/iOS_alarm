@@ -7,15 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0625D47721DC62C6009A091C /* supernowclock.png in Resources */ = {isa = PBXBuildFile; fileRef = 0625D47621DC62C6009A091C /* supernowclock.png */; };
+		0A26EF3121CD27D700AB6EC3 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A26EF3021CD27D700AB6EC3 /* add.png */; };
+		0A33601B21D0771800E54DC2 /* p2TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A33601A21D0771800E54DC2 /* p2TableViewController.m */; };
+		0A33601F21D08A1E00E54DC2 /* Empty.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A33601D21D08A1D00E54DC2 /* Empty.xib */; };
+		0A33602021D08A1E00E54DC2 /* mycustomcell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A33601E21D08A1E00E54DC2 /* mycustomcell.m */; };
+		0A8259E321E2EFB3000E712A /* SecViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A8259E221E2EFB3000E712A /* SecViewController.m */; };
+		0A8259E921E2F2C8000E712A /* ios22.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A8259E521E2F2C7000E712A /* ios22.png */; };
+		0A8259ED21E2F33C000E712A /* ios11.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A8259EC21E2F33C000E712A /* ios11.png */; };
+		0ACF1D3621C7453900B4689F /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACF1D3521C7453900B4689F /* UIImage+GIF.m */; };
+		0ACF1D3921C7484000B4689F /* LaunchAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACF1D3821C7484000B4689F /* LaunchAnimationViewController.m */; };
+		0ACF1D3B21C748C400B4689F /* logo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF1D3A21C748C400B4689F /* logo.gif */; };
+		0AEBC2EE21E07AFE00D1DC63 /* NyanCat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AEBC2ED21E07AFE00D1DC63 /* NyanCat.mp3 */; };
+		0AEBC2F421E08D7A00D1DC63 /* FirViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEBC2F321E08D7A00D1DC63 /* FirViewController.m */; };
+		0AEBC2F721E092BF00D1DC63 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AEBC2F621E092BF00D1DC63 /* AVFoundation.framework */; };
 		0AF721DF21BE047F0019E6C4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF721DE21BE047F0019E6C4 /* AppDelegate.m */; };
 		0AF721E221BE047F0019E6C4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF721E121BE047F0019E6C4 /* ViewController.m */; };
 		0AF721E521BE047F0019E6C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AF721E321BE047F0019E6C4 /* Main.storyboard */; };
 		0AF721E721BE04810019E6C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF721E621BE04810019E6C4 /* Assets.xcassets */; };
 		0AF721EA21BE04810019E6C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AF721E821BE04810019E6C4 /* LaunchScreen.storyboard */; };
 		0AF721ED21BE04810019E6C4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF721EC21BE04810019E6C4 /* main.m */; };
+		50983AA021E4C3E80010E980 /* reCaptcha.js in Resources */ = {isa = PBXBuildFile; fileRef = 50983A9F21E4C3E80010E980 /* reCaptcha.js */; };
+		50983AA321E4C4320010E980 /* ThrViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50983AA221E4C4320010E980 /* ThrViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0625D47621DC62C6009A091C /* supernowclock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = supernowclock.png; sourceTree = "<group>"; };
+		0A26EF3021CD27D700AB6EC3 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		0A33601921D0771800E54DC2 /* p2TableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = p2TableViewController.h; sourceTree = "<group>"; };
+		0A33601A21D0771800E54DC2 /* p2TableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = p2TableViewController.m; sourceTree = "<group>"; };
+		0A33601C21D08A1D00E54DC2 /* mycustomcell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mycustomcell.h; sourceTree = "<group>"; };
+		0A33601D21D08A1D00E54DC2 /* Empty.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Empty.xib; sourceTree = "<group>"; };
+		0A33601E21D08A1E00E54DC2 /* mycustomcell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mycustomcell.m; sourceTree = "<group>"; };
+		0A8259E121E2EFB3000E712A /* SecViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecViewController.h; sourceTree = "<group>"; };
+		0A8259E221E2EFB3000E712A /* SecViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecViewController.m; sourceTree = "<group>"; };
+		0A8259E521E2F2C7000E712A /* ios22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios22.png; sourceTree = "<group>"; };
+		0A8259EC21E2F33C000E712A /* ios11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ios11.png; sourceTree = "<group>"; };
+		0A8259EE21E3050B000E712A /* iOS_alarm.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = iOS_alarm.entitlements; sourceTree = "<group>"; };
+		0ACF1D3421C7451600B4689F /* UIImage+GIF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+GIF.h"; sourceTree = "<group>"; };
+		0ACF1D3521C7453900B4689F /* UIImage+GIF.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+GIF.m"; sourceTree = "<group>"; };
+		0ACF1D3721C7484000B4689F /* LaunchAnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LaunchAnimationViewController.h; sourceTree = "<group>"; };
+		0ACF1D3821C7484000B4689F /* LaunchAnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LaunchAnimationViewController.m; sourceTree = "<group>"; };
+		0ACF1D3A21C748C400B4689F /* logo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logo.gif; sourceTree = "<group>"; };
+		0AEBC2ED21E07AFE00D1DC63 /* NyanCat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NyanCat.mp3; sourceTree = "<group>"; };
+		0AEBC2F221E08D7A00D1DC63 /* FirViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirViewController.h; sourceTree = "<group>"; };
+		0AEBC2F321E08D7A00D1DC63 /* FirViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirViewController.m; sourceTree = "<group>"; };
+		0AEBC2F621E092BF00D1DC63 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		0AF721DA21BE047F0019E6C4 /* iOS_alarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_alarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AF721DD21BE047F0019E6C4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0AF721DE21BE047F0019E6C4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +63,9 @@
 		0AF721E921BE04810019E6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AF721EB21BE04810019E6C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AF721EC21BE04810019E6C4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		50983A9F21E4C3E80010E980 /* reCaptcha.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = reCaptcha.js; sourceTree = "<group>"; };
+		50983AA121E4C4320010E980 /* ThrViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThrViewController.h; sourceTree = "<group>"; };
+		50983AA221E4C4320010E980 /* ThrViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThrViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,17 +73,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AEBC2F721E092BF00D1DC63 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0AEBC2F521E092BE00D1DC63 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0AEBC2F621E092BF00D1DC63 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		0AF721D121BE047F0019E6C4 = {
 			isa = PBXGroup;
 			children = (
 				0AF721DC21BE047F0019E6C4 /* iOS_alarm */,
 				0AF721DB21BE047F0019E6C4 /* Products */,
+				0AEBC2F521E092BE00D1DC63 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,15 +108,38 @@
 		0AF721DC21BE047F0019E6C4 /* iOS_alarm */ = {
 			isa = PBXGroup;
 			children = (
+				0A8259EE21E3050B000E712A /* iOS_alarm.entitlements */,
 				0AF721DD21BE047F0019E6C4 /* AppDelegate.h */,
 				0AF721DE21BE047F0019E6C4 /* AppDelegate.m */,
+				0ACF1D3721C7484000B4689F /* LaunchAnimationViewController.h */,
+				0ACF1D3821C7484000B4689F /* LaunchAnimationViewController.m */,
 				0AF721E021BE047F0019E6C4 /* ViewController.h */,
 				0AF721E121BE047F0019E6C4 /* ViewController.m */,
+				0ACF1D3421C7451600B4689F /* UIImage+GIF.h */,
+				0A33601921D0771800E54DC2 /* p2TableViewController.h */,
+				0A33601A21D0771800E54DC2 /* p2TableViewController.m */,
+				0ACF1D3521C7453900B4689F /* UIImage+GIF.m */,
 				0AF721E321BE047F0019E6C4 /* Main.storyboard */,
 				0AF721E621BE04810019E6C4 /* Assets.xcassets */,
+				0AEBC2F221E08D7A00D1DC63 /* FirViewController.h */,
+				0AEBC2F321E08D7A00D1DC63 /* FirViewController.m */,
+				0A8259E121E2EFB3000E712A /* SecViewController.h */,
+				0A8259E221E2EFB3000E712A /* SecViewController.m */,
+				50983AA121E4C4320010E980 /* ThrViewController.h */,
+				50983AA221E4C4320010E980 /* ThrViewController.m */,
 				0AF721E821BE04810019E6C4 /* LaunchScreen.storyboard */,
 				0AF721EB21BE04810019E6C4 /* Info.plist */,
 				0AF721EC21BE04810019E6C4 /* main.m */,
+				0ACF1D3A21C748C400B4689F /* logo.gif */,
+				0A26EF3021CD27D700AB6EC3 /* add.png */,
+				0A33601D21D08A1D00E54DC2 /* Empty.xib */,
+				0A33601C21D08A1D00E54DC2 /* mycustomcell.h */,
+				0A33601E21D08A1E00E54DC2 /* mycustomcell.m */,
+				0625D47621DC62C6009A091C /* supernowclock.png */,
+				0AEBC2ED21E07AFE00D1DC63 /* NyanCat.mp3 */,
+				0A8259EC21E2F33C000E712A /* ios11.png */,
+				0A8259E521E2F2C7000E712A /* ios22.png */,
+				50983A9F21E4C3E80010E980 /* reCaptcha.js */,
 			);
 			path = iOS_alarm;
 			sourceTree = "<group>";
@@ -102,6 +175,14 @@
 				TargetAttributes = {
 					0AF721D921BE047F0019E6C4 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.InterAppAudio = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -128,9 +209,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AEBC2EE21E07AFE00D1DC63 /* NyanCat.mp3 in Resources */,
+				0A8259E921E2F2C8000E712A /* ios22.png in Resources */,
 				0AF721EA21BE04810019E6C4 /* LaunchScreen.storyboard in Resources */,
 				0AF721E721BE04810019E6C4 /* Assets.xcassets in Resources */,
+				0ACF1D3B21C748C400B4689F /* logo.gif in Resources */,
+				0A8259ED21E2F33C000E712A /* ios11.png in Resources */,
+				0A33601F21D08A1E00E54DC2 /* Empty.xib in Resources */,
+				50983AA021E4C3E80010E980 /* reCaptcha.js in Resources */,
+				0A26EF3121CD27D700AB6EC3 /* add.png in Resources */,
 				0AF721E521BE047F0019E6C4 /* Main.storyboard in Resources */,
+				0625D47721DC62C6009A091C /* supernowclock.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,8 +230,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0ACF1D3921C7484000B4689F /* LaunchAnimationViewController.m in Sources */,
 				0AF721E221BE047F0019E6C4 /* ViewController.m in Sources */,
+				0A33602021D08A1E00E54DC2 /* mycustomcell.m in Sources */,
+				0A8259E321E2EFB3000E712A /* SecViewController.m in Sources */,
 				0AF721ED21BE04810019E6C4 /* main.m in Sources */,
+				50983AA321E4C4320010E980 /* ThrViewController.m in Sources */,
+				0A33601B21D0771800E54DC2 /* p2TableViewController.m in Sources */,
+				0ACF1D3621C7453900B4689F /* UIImage+GIF.m in Sources */,
+				0AEBC2F421E08D7A00D1DC63 /* FirViewController.m in Sources */,
 				0AF721DF21BE047F0019E6C4 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +384,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FHS23WF67U;
 				INFOPLIST_FILE = iOS_alarm/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +402,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FHS23WF67U;
 				INFOPLIST_FILE = iOS_alarm/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
